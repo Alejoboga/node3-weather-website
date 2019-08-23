@@ -1,5 +1,3 @@
-console.log('Client side javascript file is loaded!')
-
 const weatherForm = document.querySelector('form') //Tomo lo que estoy ingresando en el form recien creado
 const search = document.querySelector('input')
 const messageOne = document.querySelector('#message-1') //Lo hacemos apuntar al que tiene el id con message 1
